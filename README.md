@@ -6,12 +6,6 @@
 
 ---
 
-## Introduction
-
-Hello! I'm Roshan A. Kalmegh, a Data Analyst with over 5 years of experience, including 4 years as a Customer Delight Officer - MIS and 1.3 years specializing in data analysis. This project focuses on helping Mitron Bank, a leading financial institution, design a new line of credit cards by leveraging data analysis to understand customer behavior and market trends. My role in this project was to analyze customer data and provide strategic recommendations that align with the bank's objectives.
-
----
-
 ## Project Links
 
 - 📊 **Live Dashboard:** [View on Novypro](Link_to_live_dashboard)
@@ -19,6 +13,12 @@ Hello! I'm Roshan A. Kalmegh, a Data Analyst with over 5 years of experience, in
 - 📄 **Presentation PPT:** [View on Canva](Link_to_presentation_ppt)
 
 ---
+## Introduction
+
+Hello! I'm Roshan A. Kalmegh, a Data Analyst with over 5 years of experience, including 4 years as a Customer Delight Officer - MIS and 1.3 years specializing in data analysis. This project focuses on helping Mitron Bank, a leading financial institution, design a new line of credit cards by leveraging data analysis to understand customer behavior and market trends. My role in this project was to analyze customer data and provide strategic recommendations that align with the bank's objectives.
+
+---
+
 
 ## Project Overview
 
