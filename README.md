@@ -2,7 +2,8 @@
 
 **Created by:** Roshan A. Kalmegh  
 **Data Analyst**  
-! [LinkedIn Profile](https://www.linkedin.com/in/roshan-kalmegh-2494b8251/)
+! ![LinkedIn_icon svg](https://github.com/user-attachments/assets/648e0621-7735-46aa-8455-acc9632f891f)
+[LinkedIn Profile](https://www.linkedin.com/in/roshan-kalmegh-2494b8251/)
 
 ---
 
