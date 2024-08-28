@@ -79,8 +79,10 @@ To analyze data and provide data-driven recommendations to help Mitron Bank desi
    ![Demographic Analysis Page](https://github.com/user-attachments/assets/1c67c90b-e572-4c10-99ae-f9c512a07e74)
    <br> 
 
-3. **💰 Income Analysis Dashboard:** Analysis of customer income and utilization.  
+3. **💰 Income Analysis Dashboard:** Analysis of customer income and utilization.  <br>
+<br> 
 ![Income Analysis Page](https://github.com/user-attachments/assets/7d05aa83-36fc-49f9-9808-1d4adb3e9976)
+<br> 
 
 4. **🛒 Expenditure Analysis Dashboard:** Detailed view of customer spending patterns.<br> 
    <br> <br> 
@@ -97,7 +99,7 @@ To analyze data and provide data-driven recommendations to help Mitron Bank desi
 ![Customer Profile Analysis Page](https://github.com/user-attachments/assets/cb46b24a-20bd-427d-9b1d-85fb994d0594)
 <br> 
 
-7. ** Information Page : **
+7. **Information Page :**
     <br> <br> 
    ![Information Page](https://github.com/user-attachments/assets/59fadd81-0dfc-452d-aed3-67892f8bd31c)
 <br> 
