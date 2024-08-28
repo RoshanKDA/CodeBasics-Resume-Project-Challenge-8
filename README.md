@@ -70,11 +70,11 @@ To analyze data and provide data-driven recommendations to help Mitron Bank desi
 ## Dashboard Overview
 
 1. **🏠 Home Page:** Overview of key metrics and project summary.
-   <br> 
+   <br> <br> 
 ![Home Page](https://github.com/user-attachments/assets/188ed1f7-1773-4e39-91fb-b1c226c55cc0)
 <br> 
 
-3. **👥 Demographic Analysis Dashboard:** Insights into customer demographics.
+3. **👥 Demographic Analysis Dashboard:** Insights into customer demographics.<br> 
    <br>  <br> 
    ![Demographic Analysis Page](https://github.com/user-attachments/assets/1c67c90b-e572-4c10-99ae-f9c512a07e74)
    <br> 
@@ -82,7 +82,7 @@ To analyze data and provide data-driven recommendations to help Mitron Bank desi
 5. **💰 Income Analysis Dashboard:** Analysis of customer income and utilization.  
 ![Income Analysis Page](https://github.com/user-attachments/assets/7d05aa83-36fc-49f9-9808-1d4adb3e9976)
 
-6. **🛒 Expenditure Analysis Dashboard:** Detailed view of customer spending patterns.
+6. **🛒 Expenditure Analysis Dashboard:** Detailed view of customer spending patterns.<br> 
    <br> <br> 
 ![Expenditure Analysis Page](https://github.com/user-attachments/assets/efa17c15-1c45-4ea5-91e8-993c2df03591)
 <br> 
