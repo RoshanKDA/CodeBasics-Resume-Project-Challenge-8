@@ -73,19 +73,22 @@ To analyze data and provide data-driven recommendations to help Mitron Bank desi
 ![Home Page](https://github.com/user-attachments/assets/188ed1f7-1773-4e39-91fb-b1c226c55cc0)
 
 2. **👥 Demographic Analysis Dashboard:** Insights into customer demographics.  
-   ![Demographic Analysis](Image)
+   ![Demographic Analysis Page](https://github.com/user-attachments/assets/1c67c90b-e572-4c10-99ae-f9c512a07e74)
 
-3. **💰 Income Analysis Dashboard:** Analysis of customer income and utilization.  
-   ![Income Analysis](Image)
+4. **💰 Income Analysis Dashboard:** Analysis of customer income and utilization.  
+![Income Analysis Page](https://github.com/user-attachments/assets/7d05aa83-36fc-49f9-9808-1d4adb3e9976)
 
-4. **🛒 Expenditure Analysis Dashboard:** Detailed view of customer spending patterns.  
-   ![Expenditure Analysis](Image)
+5. **🛒 Expenditure Analysis Dashboard:** Detailed view of customer spending patterns.  
+![Expenditure Analysis Page](https://github.com/user-attachments/assets/efa17c15-1c45-4ea5-91e8-993c2df03591)
 
-5. **📊 Income Utilization Analysis Dashboard:** Focused on income usage and financial behavior.  
-   ![Income Utilization](Image)
+6. **📊 Income Utilization Analysis Dashboard:** Focused on income usage and financial behavior.  
+![Income Utilization Page](https://github.com/user-attachments/assets/ee8033f1-be0f-49ca-9945-56e6b4f89f69)
 
-6. **📋 Customer Profile Analysis:** Comprehensive profiling of key customer segments.  
-   ![Customer Profile Analysis](Image)
+7. **📋 Customer Profile Analysis:** Comprehensive profiling of key customer segments.  
+![Customer Profile Analysis Page](https://github.com/user-attachments/assets/cb46b24a-20bd-427d-9b1d-85fb994d0594)
+
+8. ** Information Page : **
+   ![Information Page](https://github.com/user-attachments/assets/59fadd81-0dfc-452d-aed3-67892f8bd31c)
 
 ---
 
