@@ -8,7 +8,7 @@
 
 ## Project Links
 
-- 📊 **Live Dashboard:** [View on Novypro](Link_to_live_dashboard)
+- 📊 **Live Dashboard:** [LINK](<iframe title="CRPC8 Mitron Bank - Analysis for New Credit Card Launch" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYzFmZTkyZjgtYzVmNy00ZWEwLTkyNWUtNDgyZWY3Y2M2MTVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 - 🎥 **LinkedIn Post with Presentation Video:** [Watch Now](Link_to_linkedin_video)
 - 📄 **Presentation PPT:** [View on Canva](Link_to_presentation_ppt)
 
