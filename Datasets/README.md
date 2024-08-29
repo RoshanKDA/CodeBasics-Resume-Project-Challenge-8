@@ -1,4 +1,4 @@
 Datasets is available at codebasic webisite. Link is provided below. 
-Resume Challenge Link :- [Link] (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Resume Challenge Link :- https://codebasics.io/challenge/codebasics-resume-project-challenge
 
-Dataset download link :- [Link] (https://files.codebasics.io/upload/challengeSection/C8_Input_Files.zip?Expires=1724947504&Signature=N5Dxmt8GRLhIx-G3nLJl3nq~hFCkmFb10k0EEn-Th3aLP9lkfMbNNJP~He8kNZnMtijEwXsoLFE1Uz29-ATSsqmamtwux4Oav90BWkzM2VdllmMDrEf9FZs1gUMFi3AbxsrJfZ~wJG2FYIn2SHIUv7hKyWSDPDTLOZIElriZNDGQe1Gq2rbocA3jjkIR0PWmGbJi-nxUbr6opJ708nMJ-NfOuK55vgkkE0tWrS2TJwkHWKMPIqqEDHysd9sCW-Hb0GPTZqf3u9lRn4eVxG2N-h6gRH-7Uo1~BakJDm3vF1Z2U9kPLltt386lmOZOfGrqYoE9ofLmYaiLFKUCH7sd3Q__&Key-Pair-Id=K2RNEYYX7N2F8M)
+Dataset download link :- https://files.codebasics.io/upload/challengeSection/C8_Input_Files.zip?Expires=1724947504&Signature=N5Dxmt8GRLhIx-G3nLJl3nq~hFCkmFb10k0EEn-Th3aLP9lkfMbNNJP~He8kNZnMtijEwXsoLFE1Uz29-ATSsqmamtwux4Oav90BWkzM2VdllmMDrEf9FZs1gUMFi3AbxsrJfZ~wJG2FYIn2SHIUv7hKyWSDPDTLOZIElriZNDGQe1Gq2rbocA3jjkIR0PWmGbJi-nxUbr6opJ708nMJ-NfOuK55vgkkE0tWrS2TJwkHWKMPIqqEDHysd9sCW-Hb0GPTZqf3u9lRn4eVxG2N-h6gRH-7Uo1~BakJDm3vF1Z2U9kPLltt386lmOZOfGrqYoE9ofLmYaiLFKUCH7sd3Q__&Key-Pair-Id=K2RNEYYX7N2F8M
