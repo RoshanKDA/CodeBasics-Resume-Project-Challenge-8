@@ -10,7 +10,7 @@
 
 - 📊 **Live Dashboard:** [LINK](https://app.powerbi.com/view?r=eyJrIjoiYzFmZTkyZjgtYzVmNy00ZWEwLTkyNWUtNDgyZWY3Y2M2MTVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - 🎥 **LinkedIn Post with Presentation Video:** [Watch Now](Link_to_linkedin_video)
-- 📄 **Presentation PPT:** [View on Canva](Link_to_presentation_ppt)
+- 📄 **Presentation PPT:** [Link](https://github.com/RoshanKDA/CodeBasics-Resume-Project-Challenge-8/blob/main/Mitron%20Bank%20Challenge%20Presentation.pdf)
 
 ---
 ## Introduction
